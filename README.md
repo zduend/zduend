@@ -24,12 +24,3 @@
 
 <br>
 
----
-
-## 👨‍💻 Sobre mim
-
-- 🎓 Atualmente estudando desenvolvimento e lógica de programação
-- 🐍 Aprendendo e desenvolvendo projetos em **Python**
-- 🌐 Estudando **HTML e CSS**
-- 🔧 Utilizando **Git e GitHub** para versionamento de projetos
-- 🚀 Construindo meus primeiros projetos e compartilhando minha evolução por aqui

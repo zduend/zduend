@@ -19,7 +19,7 @@
   &nbsp;&nbsp;
   <img alt="Git" title="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   &nbsp;&nbsp;
-  <img alt="GitHub" title="GitHub" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img alt="GitHub" title="GitHub" width="45px" src="https://cdn.simpleicons.org/github/white" />
 </div>
 
 <br>
